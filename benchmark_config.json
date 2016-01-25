@@ -1,0 +1,11 @@
+{
+    "language": {"name": "python", "version": "3.5"},
+    "web_server1": {"name": "meinheld", "version": "0.5.7"},
+    "web_server2": null,
+    "web_framework": {"name": "wsgi", "version": ""},
+    "json_lib": {"name": "ujson", "version": ""},
+    "database": {"name": "MongoDB", "version": "3.4"},
+    "database_driver": {"name": "pymongo", "version": ""},
+    "database_lib": {"name": "mongoengine", "version": ""},
+    "description": ""
+}

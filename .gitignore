@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+*.pyo
+*~
+*.log
+env/*
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.env

@@ -1,0 +1,10 @@
+.git
+*~
+*.log
+*.tmp
+*.pyc
+*.pyo
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore
